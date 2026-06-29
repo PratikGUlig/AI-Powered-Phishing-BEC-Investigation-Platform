@@ -172,8 +172,7 @@ PayPal Security Team
 ## Detection Result
 
 ```text
-Risk Score: 100
-
+Risk Score: 95
 Severity: HIGH
 
 Indicators:
