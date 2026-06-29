@@ -1,0 +1,13 @@
+From: support@binance-security.net
+
+Subject: Wallet Suspended
+
+Dear User,
+
+Your wallet has been compromised.
+
+Verify immediately:
+
+http://binance-wallet-secure.xyz
+
+Failure to verify will result in loss of funds.

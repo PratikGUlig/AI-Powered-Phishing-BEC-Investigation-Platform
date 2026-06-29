@@ -1,0 +1,11 @@
+From: security@g00gle-support.com
+
+Subject: Password Reset
+
+Your password has expired.
+
+Please login immediately:
+
+http://google-account-reset.xyz
+
+Verify your password now.

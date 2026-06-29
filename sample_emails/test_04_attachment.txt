@@ -1,0 +1,10 @@
+From: invoice@company.com
+
+Subject: Invoice
+
+Please review attached invoice.
+
+invoice.docm
+
+Regards,
+Finance Team

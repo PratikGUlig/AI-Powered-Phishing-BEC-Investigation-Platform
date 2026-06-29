@@ -1,0 +1,16 @@
+From: support@amaz0n-security.com
+
+Subject: Security Alert
+
+Dear Customer,
+
+Suspicious login activity detected.
+
+Verify your account immediately:
+
+http://amazon-security-login.xyz
+
+Click here to continue.
+
+Regards,
+Amazon Security Team

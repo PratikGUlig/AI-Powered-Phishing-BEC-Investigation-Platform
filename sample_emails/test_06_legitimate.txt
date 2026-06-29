@@ -1,0 +1,10 @@
+From: noreply@github.com
+
+Subject: Security Alert
+
+A new login was detected on your account.
+
+If this was you, no action is required.
+
+Regards,
+GitHub Security Team

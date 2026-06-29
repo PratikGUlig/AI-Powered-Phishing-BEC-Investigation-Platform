@@ -1,0 +1,13 @@
+From: support@sbi-secure.net
+
+Subject: Account Locked
+
+Dear Customer,
+
+Your bank account has been locked.
+
+Verify your account immediately:
+
+http://sbi-login-secure.xyz
+
+Failure to verify will suspend your account.

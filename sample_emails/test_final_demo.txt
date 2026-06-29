@@ -1,0 +1,20 @@
+From: security@paypa1.com
+
+Subject: Immediate Action Required
+
+Dear Customer,
+
+Your PayPal account has been suspended due to suspicious activity.
+
+Please verify immediately:
+
+http://paypal-security-login.xyz
+
+Failure to verify within 24 hours will result in permanent account closure.
+
+Click here immediately.
+
+invoice.docm
+
+Regards,
+PayPal Security Team
